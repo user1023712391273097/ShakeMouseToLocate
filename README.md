@@ -15,7 +15,7 @@ Also added flags for autostart, enabled, ctrl and sensitivity.
 
 Name and tooltip were chosen to coincide with the Mac feature this is similar to.
 
-[Download](releases/latest/download/ShakeMouseToLocate.exe) from releases tab.
+[Download](https://github.com/nicolasdejong/ShakeMouseToLocate/releases/latest/download/ShakeMouseToLocate.exe) from releases tab.
 
 #### Note
 
